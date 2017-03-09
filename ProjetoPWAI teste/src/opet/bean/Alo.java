@@ -1,9 +1,7 @@
 /**
- * 
+ *
  */
 package opet.bean;
-
-import javax.jws.soap.SOAPBinding;
 
 /**
  * @author aluno
@@ -17,7 +15,7 @@ public class Alo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Olá mundo!");
-		System.out.printl("Ja foi!");
+		System.out.println("Ja foi!");
 
 	}
 
